@@ -8,7 +8,7 @@
 
 **For Mobile Users**
 
-* Android
+*  <img src="https://cdn.discordapp.com/emojis/1304394048232230933.webp?size=80&quality=lossless" alt="Windows Logo" width="20" height="10"> Android
 * iOS
 
 **For Developers**
