@@ -1,4 +1,4 @@
-## PiCapes Linux Install Guide (via Script)
+## PiCapes Linux Install Guide (via Script) (⭐ Recommended)
 ### Step 1
 Open a Terminal application.
 ### Step 2
