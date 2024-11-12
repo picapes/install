@@ -1,4 +1,5 @@
 # Installers
+> **ℹ For Sodium/Non Optifine users: You will need to have [Capes Mod](https://modrinth.com/mod/capes) Installed in your Client/Modloader in order to see your Capes.**
 
 **For Desktop Users**
 
