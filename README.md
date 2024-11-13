@@ -1,5 +1,5 @@
 # Installers
-> **ℹ For Sodium/Non Optifine users: You will need to have [Capes Mod](https://modrinth.com/mod/capes) Installed in your Client/Modloader in order to see your Capes.**
+> **ℹ For Sodium/Non Optifine users: You will need to have [Capes Mod](https://modrinth.com/mod/capes) Installed in your Client/Modloader in order to see your Capes. (Minecraft does not natively support HD Capes btw)**
 
 **For Desktop Users**
 
