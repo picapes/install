@@ -20,7 +20,7 @@ and remove any other line that contains `s.optifine.net` or `s-optifine.lunarcli
 **For Mobile Users**
 
 * <img src="https://cdn.discordapp.com/emojis/1304394048232230933.webp?size=80&quality=lossless" alt="Android Logo" width="20" height="10"> Android (unrooted also)
-* <img src="https://cdn.discordapp.com/emojis/1304394057249984532.webp?size=80&quality=lossless" alt="iOS Logo" width="15" height="15"> iOS (jailbroken support also)
+* <img src="https://cdn.discordapp.com/emojis/1304394057249984532.webp?size=80&quality=lossless" alt="iOS Logo" width="15" height="15"> iOS (without jailbroken support also)
 
 **For Developers**
 
