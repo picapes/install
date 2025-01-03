@@ -39,6 +39,8 @@ If you have setup next dns on your device correctly, it should now show `🟢 Al
 
 ![1000054249](https://github.com/user-attachments/assets/b314d164-2cbc-4321-8acf-e2bb67e93e11)
 
+Now `Restart` your mobile and continue the next step. 
+
 ### Step 6
 Now visit `http://s.optifine.net/` and it should now show `✅ Successfully Installed on your Device.` with our PiCapes logo :)
 
