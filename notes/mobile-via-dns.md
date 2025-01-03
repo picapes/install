@@ -53,7 +53,8 @@ Now visit [http://s.optifine.net/](http://s.optifine.net/) and it should now sho
 ![image](https://github.com/user-attachments/assets/8867f418-c994-4e4e-9a68-551b79544809)
 
 ### Step 6
-> **ℹ For Sodium/Non Optifine users: You will need to have [Capes Mod](https://modrinth.com/mod/capes) Installed in your Client/Modloader in order to see your Capes. (Minecraft does not natively support HD Capes btw)**
+> [!NOTE] 
+> For Sodium/Non Optifine users: You will need to have [Capes Mod](https://modrinth.com/mod/capes) Installed in your Client/Modloader in order to see your Capes. (Minecraft does not natively support HD Capes btw)
 
 Open any Minecraft Java launcher (ex. PojavLauncher) and launch the game with any version that has Optifine (built-in or mod). If you are registered, your cape should now show up on your character.
 
