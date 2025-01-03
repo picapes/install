@@ -49,6 +49,11 @@ Now Open any **Minecraft Java launcher** (ex. PojavLauncher) and launch the game
 
 If you are _registered_, your cape should now show up on your character.
 
+![1000054291](https://github.com/user-attachments/assets/528f06a7-9e7a-4d6e-863a-326a3ba69b60)
+
+![1000054292](https://github.com/user-attachments/assets/a0af4303-402b-42f2-b4cb-49e92c83ba35)
+> _(Preview from **Cracked LC** [Optifine built-in] on PojavLauncher)_
+
 _Enjoy your capes :)_
 
 
