@@ -48,15 +48,20 @@ Now goto the `Setup` tab and scroll down to **Setup Guide** and follow the steps
 </details>
 
 ### Step 5
-Now visit [http://s.optifine.net/](http://s.optifine.net/) and it should now show `✅ Successfully Installed on your Device.` with our PiCapes logo :)
+If you have setup next dns on your device correctly, it should now show `🟢 All Good` as shown-
+
+![1000054249](https://github.com/user-attachments/assets/b314d164-2cbc-4321-8acf-e2bb67e93e11)
+
+### Step 6
+Now visit `http://s.optifine.net/` and it should now show `✅ Successfully Installed on your Device.` with our PiCapes logo :)
 
 ![image](https://github.com/user-attachments/assets/8867f418-c994-4e4e-9a68-551b79544809)
 
 ### Step 6
 > [!NOTE] 
-> For Sodium/Non Optifine users: You will need to have [Capes Mod](https://modrinth.com/mod/capes) Installed in your Client/Modloader in order to see your Capes. (Minecraft does not natively support HD Capes btw)
+> For Sodium/Non Optifine users: You will need to have [Capes Mod](https://modrinth.com/mod/capes) Installed in your Client/Modloader in order to see your Capes.
 
-Open any Minecraft Java launcher (ex. PojavLauncher) and launch the game with any version that has Optifine (built-in or mod). If you are registered, your cape should now show up on your character.
+Open any Minecraft Java launcher (ex. PojavLauncher) and launch the game with any version/modloader/client that has Optifine (built-in or mod) or [Capes Mod](https://modrinth.com/mod/capes). If you are registered, your cape should now show up on your character.
 
 _Enjoy your capes :)_
 
