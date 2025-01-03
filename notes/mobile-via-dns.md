@@ -45,7 +45,7 @@ Now visit `http://s.optifine.net/` and it should now show `✅ Successfully Inst
 ![image](https://github.com/user-attachments/assets/8867f418-c994-4e4e-9a68-551b79544809)
 
 ### Step 6
-Now Open any **Minecraft Java launcher** (ex. PojavLauncher) and launch the game with any `version/modloader/client` that has **Optifine** (embedded with your fav client or as mod) or [**Capes Mod**](https://modrinth.com/mod/capes) (if you don't use Optifine). 
+Now Open any **Minecraft Java launcher** (ex. PojavLauncher) and launch the game with any `version/modloader/client` that has **Optifine** (built-in into client or as mod) or [**Capes Mod**](https://modrinth.com/mod/capes) (if you don't use Optifine). 
 
 If you are _registered_, your cape should now show up on your character.
 
