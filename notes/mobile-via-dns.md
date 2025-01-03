@@ -4,27 +4,17 @@ Create an account or register on [NextDNS](https://my.nextdns.io/login) and crea
 
 ### Step 2
 Goto the `Settings` tab of your created DNS Profile.
-<details>
-  <summary>Click to show image</summary>
-  
+
 ![Screenshot 2024-11-30 143149](https://github.com/user-attachments/assets/6480063c-69c6-4cd8-bf63-828648cfa911)
-</details>
 
 Scroll down until you see **Rewrites** option and click on `New Rewrite` button
-<details>
-  <summary>Click to show image</summary>
   
 ![my nextdns io_c1e879_setup(iPhone 14 Pro Max) (1)](https://github.com/user-attachments/assets/f17a4a74-3ab5-42a9-a9fb-ffa7ef2ed507)
-</details>
 
 ### Step 3
 Add the following in the **New Rewrite** dialog and click `Save` button-
-
-<details>
-  <summary>Click to show image</summary>
   
-![Screenshot 2024-11-30 143111](https://github.com/user-attachments/assets/cf86019d-5c62-4dd3-9b8f-3b248adec1c8)
-</details>
+![1000054251](https://github.com/user-attachments/assets/ed200521-ba94-4151-9284-c475db01134e)
 
 <hr>
 
@@ -41,11 +31,8 @@ s.optifine.net
 
 ### Step 4
 Now goto the `Setup` tab and scroll down to **Setup Guide** and follow the steps given there according to your Mobile's OS.
-<details>
-  <summary>Click to show image</summary>
   
 ![image](https://github.com/user-attachments/assets/3b3ef85f-a414-4576-b16a-2b28def90b63)
-</details>
 
 ### Step 5
 If you have setup next dns on your device correctly, it should now show `🟢 All Good` as shown-
@@ -58,10 +45,9 @@ Now visit `http://s.optifine.net/` and it should now show `✅ Successfully Inst
 ![image](https://github.com/user-attachments/assets/8867f418-c994-4e4e-9a68-551b79544809)
 
 ### Step 6
-> [!NOTE] 
-> For Sodium/Non Optifine users: You will need to have [Capes Mod](https://modrinth.com/mod/capes) Installed in your Client/Modloader in order to see your Capes.
+Now Open any **Minecraft Java launcher** (ex. PojavLauncher) and launch the game with any `version/modloader/client` that has **Optifine** (embedded with your fav client or as mod) or [**Capes Mod**](https://modrinth.com/mod/capes) (if you don't use Optifine). 
 
-Open any Minecraft Java launcher (ex. PojavLauncher) and launch the game with any version/modloader/client that has Optifine (built-in or mod) or [Capes Mod](https://modrinth.com/mod/capes). If you are registered, your cape should now show up on your character.
+If you are _registered_, your cape should now show up on your character.
 
 _Enjoy your capes :)_
 
