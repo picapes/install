@@ -34,7 +34,8 @@ Go to `Privacy` tab and remove `NextDNS Ads & Trackers Blocklist`  in Blocklists
 
 ![my nextdns io_388a64_privacy](https://github.com/user-attachments/assets/e57a8343-e7a5-4aac-8962-d1e2d38e0aa8)
 
-(Turning this off because this will create issues in Renewal system and normal mobile usage)
+_(Turning this off because this may create issues in Renewal system and normal mobile usage)_
+
 ### Step 5
 Now goto the `Setup` tab and scroll down to **Setup Guide** and follow the steps given there according to your Mobile's OS.
   
