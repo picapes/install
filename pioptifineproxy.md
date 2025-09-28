@@ -88,7 +88,7 @@
 4. Add this line (delete any existing `s.optifine.net` entries first):
 
    ```
-   23.95.137.176 s.optifine.net
+   38.224.226.95 s.optifine.net
    ```
 5. Save and exit (**Ctrl+X**, then press **Y**, then **Enter**).
 6. Restart Minecraft.
