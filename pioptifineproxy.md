@@ -4,6 +4,12 @@
 > [!NOTE]  
 > Animated capes are **not supported** in PiOptiFine Proxy. Normal capes will still work.
 
+# Installation for:
+* [Windows](#windows--install)
+* [MacOS](#macos--install)
+* [Linux](#linux--install)
+* [Android/iOS (NextDNS)](/notes/mobile-via-dns.md)
+
 ---
 
 ### Windows — Install
