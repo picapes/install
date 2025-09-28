@@ -14,7 +14,7 @@ Scroll down until you see **Rewrites** option and click on `New Rewrite` button
 ### Step 3
 Add the following in the **New Rewrite** dialog and click `Save` button-
   
-![1000054251](https://github.com/user-attachments/assets/ed200521-ba94-4151-9284-c475db01134e)
+<img width="1080" height="910" alt="image (1)" src="https://github.com/user-attachments/assets/85a2018f-228a-49f9-9618-9b228e968318" />
 
 <hr>
 
@@ -25,7 +25,7 @@ s.optifine.net
 
 #### Answer
 ```
-37.202.206.42
+38.224.226.95
 ```
 <hr>
 
