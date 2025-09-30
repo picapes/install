@@ -18,13 +18,18 @@
    ```powershell
    Get-DnsClientNrptRule | Where-Object { $_.Namespace -eq 's.optifine.net' } | Remove-DnsClientNrptRule -Force; (Get-Content $env:SystemRoot\System32\drivers\etc\hosts) | Where-Object {$_ -notmatch 's\.optifine\.net'} | Set-Content $env:SystemRoot\System32\drivers\etc\hosts
    ```
+3. Flush DNS:
+
+   ```powershell
+   ipconfig /flushdns
+   ```
 
 3. Add the PiOF Proxy DNS rule:
 
    ```powershell
    Add-DnsClientNrptRule -Namespace "s.optifine.net" -NameServers "38.224.226.95"
    ```
-4. Flush DNS:
+4. Flush DNS (again):
 
    ```powershell
    ipconfig /flushdns
