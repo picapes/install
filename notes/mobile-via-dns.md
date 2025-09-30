@@ -11,7 +11,7 @@ Scroll down until you see **Rewrites** option and click on `New Rewrite` button
   
 ![my nextdns io_c1e879_setup(iPhone 14 Pro Max) (1)](https://github.com/user-attachments/assets/f17a4a74-3ab5-42a9-a9fb-ffa7ef2ed507)
 
-### Step 3
+### Step 3 
 Add the following in the **New Rewrite** dialog and click `Save` button-
   
 <img width="1080" height="910" alt="image (1)" src="https://github.com/user-attachments/assets/85a2018f-228a-49f9-9618-9b228e968318" />
@@ -29,7 +29,7 @@ s.optifine.net
 ```
 <hr>
 
-### Step 4
+### Step 4 [IMPORTANT]
 Go to `Privacy` tab and remove `NextDNS Ads & Trackers Blocklist`  in Blocklists by clicking on **X** next to it.
 
 ![my nextdns io_388a64_privacy](https://github.com/user-attachments/assets/e57a8343-e7a5-4aac-8962-d1e2d38e0aa8)
