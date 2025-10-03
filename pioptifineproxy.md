@@ -15,7 +15,7 @@
 ### Windows — Install
 1. Right-click the **Windows button** → select **Windows PowerShell (Administrator)**.  
 2. Run this command [Removes any existing OptiFine proxies (Cloaks+, Mantle, Arcmetica, etc.)]:  
-   ```ps
+   ```powershell
    Get-DnsClientNrptRule | Where-Object { $_.Namespace -eq 's.optifine.net' } | Remove-DnsClientNrptRule -Force; (Get-Content $env:SystemRoot\System32\drivers\etc\hosts | Where-Object { $_ -notmatch 's\.optifine\.net' }) | Set-Content -Path $env:SystemRoot\System32\drivers\etc\hosts -Force
    ```
 2. Run this command [Addd the PiOF Proxy DNS rule]:
