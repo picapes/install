@@ -15,21 +15,15 @@
 ### Windows — Install
 1. Right-click the **Windows button** → select **Windows PowerShell (Administrator)**.  
 2. Run this command [Removes any existing OptiFine proxies (Cloaks+, Mantle, Arcmetica, etc.)]:  
-   ```powershell
-   Get-DnsClientNrptRule | Where-Object { $_.Namespace -eq 's.optifine.net' } | Remove-DnsClientNrptRule -Force; (Get-Content $env:SystemRoot\System32\drivers\etc\hosts) | Where-Object {$_ -notmatch 's\.optifine\.net'} | Set-Content $env:SystemRoot\System32\drivers\etc\hosts
+   ```ps
+   Get-DnsClientNrptRule | Where-Object { $_.Namespace -eq 's.optifine.net' } | Remove-DnsClientNrptRule -Force; (Get-Content $env:SystemRoot\System32\drivers\etc\hosts | Where-Object { $_ -notmatch 's\.optifine\.net' }) | Set-Content -Path $env:SystemRoot\System32\drivers\etc\hosts -Force
    ```
-3. Run Flush DNS:
-
-   ```powershell
-   ipconfig /flushdns
-   ```
-
-3. Run this command [Addd the PiOF Proxy DNS rule]:
+2. Run this command [Addd the PiOF Proxy DNS rule]:
 
    ```powershell
    Add-DnsClientNrptRule -Namespace "s.optifine.net" -NameServers "38.224.226.95"
    ```
-4. Run Flush DNS (again):
+3. Run Flush DNS command:
 
    ```powershell
    ipconfig /flushdns
