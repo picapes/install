@@ -1,5 +1,5 @@
-## PiOptiFine Proxy (All Versions & Clients)
-**PiOF Proxy** reroutes requests from OptiFine’s servers to ours, letting capes and cosmetics display in nearly any Minecraft version or client that supports OptiFine capes (e.g., OptiFine itself or the [Capes Mod](https://modrinth.com/mod/capes)).
+## PiCape's OptiFine Proxy (All Versions & Clients)
+**PiCape's OptiFine Proxy** reroutes requests from OptiFine’s servers to ours, letting capes and cosmetics display in nearly any Minecraft version or client that supports OptiFine capes (e.g., OptiFine itself or the [Capes Mod](https://modrinth.com/mod/capes)).
 
 > [!NOTE]  
 > Animated capes are **not supported** in PiOptiFine Proxy. Normal capes will still work.
