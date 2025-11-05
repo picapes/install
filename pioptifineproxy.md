@@ -21,7 +21,7 @@
 2. Run this command [Addd the PiOF Proxy DNS rule]:
 
    ```powershell
-   Add-DnsClientNrptRule -Namespace "s.optifine.net" -NameServers "38.224.226.95"
+   Add-DnsClientNrptRule -Namespace "s.optifine.net" -NameServers "138.252.100.11"
    ```
 3. Run Flush DNS command:
 
@@ -58,7 +58,7 @@
 4. Add this line (delete any existing `s.optifine.net` entries first):
 
    ```
-   38.224.226.95 s.optifine.net
+   138.252.100.11 s.optifine.net
    ```
 5. Save and exit (**Ctrl+O**, **Enter**, then **Ctrl+X**).
 6. Restart Minecraft.
@@ -93,7 +93,7 @@
 4. Add this line (delete any existing `s.optifine.net` entries first):
 
    ```
-   38.224.226.95 s.optifine.net
+   138.252.100.11 s.optifine.net
    ```
 5. Save and exit (**Ctrl+X**, then press **Y**, then **Enter**).
 6. Restart Minecraft.
